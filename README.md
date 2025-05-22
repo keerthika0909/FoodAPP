@@ -1,35 +1,36 @@
 
-## 🧾 Custom Foodie App Documentation
+## 🧾 Custom Food App Documentation
 
 ### 📌 1. Project Details
 
-* **Project Name**: Custom Foodie App
+* **Project Name**: Custom Food App
 * **Version**: v1.1 (Beta)
-* **Last Updated**: May 22, 2025
-* **Logo**: *(To be added in `/assets/logo.png`)*
-
+* **Tagline**:Experience fast and healthy food Customization app
 ---
 
 ### 👥 2. Team Members
 
 Name: Keerthika Badri,Sathwika Ramagiri
-
+Role/Responsibities:
+  > Keerthika Badri: Full Stack
+  > Sathwika Ramagiri: UI/UX, Layout
+---
 
 ### 📖 3. Table of Contents
 
 1. Executive Summary
 2. The Five Ws and How
 3. Vision and Goals
-4. Market Analysis
-5. Business Model
-6. Technical Documentation
-7. User Documentation
-8. Testing Strategy
-9. Deployment Plan
-10. Maintenance
-11. Risk and Mitigation
-12. Roadmap
-13. Appendices
+4. Executive Summary
+5. The Five Ws and How
+6. Project Vision and Goals
+7. Market Analysis
+8. Business Model
+9. User Documentation
+10. Testing Strategy
+11. Deployment Strategy
+12. Maintenance Plan
+13. Future Roadmap
 
 ---
 
@@ -173,17 +174,7 @@ Name: Keerthika Badri,Sathwika Ramagiri
 
 ---
 
-### ⚠️ 13. Risk Assessment
-
-| Risk                         | Impact | Mitigation                  |
-| ---------------------------- | ------ | --------------------------- |
-| Limited delivery integration | Medium | Mock API + future live API  |
-| Data not persistent          | Low    | Use localStorage or backend |
-| UI overload with more items  | Medium | Add pagination or filters   |
-
----
-
-### 🔮 14. Future Roadmap
+### 🔮 13. Future Roadmap
 
 * ✅ Add 20 Indian breakfasts (DONE)
 * 🔜 Integrate Swiggy/Zomato API
