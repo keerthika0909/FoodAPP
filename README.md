@@ -1,10 +1,3 @@
-Here is a detailed **project documentation** for your **Custom Foodie App**, integrated with:
-
-* **20 Indian breakfast options** (e.g., idly, dosa, poha),
-* **food delivery assistance**, and
-* based on the official documentation structure from the GennextIT intern assignment.
-
----
 
 ## 🧾 Custom Foodie App Documentation
 
