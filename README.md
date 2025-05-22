@@ -10,10 +10,10 @@
 
 ### 👥 2. Team Members
 
-Name: Keerthika Badri,Sathwika Ramagiri
-Role/Responsibities:
-  > Keerthika Badri: Full Stack
-  > Sathwika Ramagiri: UI/UX, Layout
+* Name: Keerthika Badri,Sathwika Ramagiri
+* Role/Responsibities:
+  * Keerthika Badri: Full Stack
+  * Sathwika Ramagiri: UI/UX, Layout
 ---
 
 ### 📖 3. Table of Contents
